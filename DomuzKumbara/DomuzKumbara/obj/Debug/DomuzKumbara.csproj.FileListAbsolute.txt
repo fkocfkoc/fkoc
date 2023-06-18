@@ -1,0 +1,10 @@
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\obj\Debug\DomuzKumbara.csprojResolveAssemblyReference.cache
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\obj\Debug\DomuzKumbara.KumbaraForm.resources
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\obj\Debug\DomuzKumbara.Properties.Resources.resources
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\obj\Debug\DomuzKumbara.csproj.GenerateResource.Cache
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\obj\Debug\DomuzKumbara.csproj.CoreCompileInputs.cache
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\bin\Debug\DomuzKumbara.exe.config
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\bin\Debug\DomuzKumbara.exe
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\bin\Debug\DomuzKumbara.pdb
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\obj\Debug\DomuzKumbara.exe
+c:\users\fkoc\source\repos\DomuzKumbara\DomuzKumbara\obj\Debug\DomuzKumbara.pdb
